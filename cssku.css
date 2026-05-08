@@ -1,0 +1,21 @@
+/*ini cssku*/
+
+div {
+	text-align:justify;
+}
+
+.rata-kiri{
+	text-align:left;
+}
+
+.rata-kanan{
+	text-align:right;
+}
+
+.rata-tengah{
+	text-align:center;
+}
+
+.rata-kanakiri{
+	text-align:justify;
+}
